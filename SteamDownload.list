@@ -33,3 +33,5 @@ DOMAIN,steam.cdn.webra.ru
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
